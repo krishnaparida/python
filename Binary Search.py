@@ -8,3 +8,4 @@ while left<right:
     else:
         break
 print(a[left])
+print(a[right-1])
